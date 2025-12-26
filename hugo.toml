@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "fa-ir"
+defaultContentLanguage = "fa"
+title = "خانه نارنجی | دوره‌های روانشناسی"
+enableRobotsTXT = true
+theme = 'papermod'
+
+[params]
+  description = "دوره‌های آنلاین روانشناسی با رویکرد کاربردی"
+  author = "Narenji Home"
+  
+  label.icon = "/pictures/home.png"
+  label.text = "خانه نارنجی"
+  label.iconHeight = 35
