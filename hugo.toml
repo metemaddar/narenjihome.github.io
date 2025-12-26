@@ -8,7 +8,11 @@ theme = 'papermod'
 [params]
   description = "دوره‌های آنلاین روانشناسی با رویکرد کاربردی"
   author = "Narenji Home"
-  
+
   label.icon = "/pictures/home.png"
   label.text = "خانه نارنجی"
   label.iconHeight = 35
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
